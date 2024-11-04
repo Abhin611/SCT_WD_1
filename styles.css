@@ -144,9 +144,9 @@ body {
 .clock {
   background-color: #f0f0f0; 
     border: 10px solid #ff0400; 
-    border-radius: 50%; /* Circular shape */
-    width: 400px; /* Width of the clock */
-    height: 400px; /* Height of the clock */
+    border-radius: 50%; 
+    width: 400px; 
+    height: 400px; 
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -166,12 +166,12 @@ body {
 
 .controls {
   display: flex;
-  gap: 10px; /* Space between buttons */
+  gap: 10px; 
 }
 
 .controls button {
-    padding: 10px 15px; /* Reduced padding for smaller button */
-    font-size: 14px; /* Smaller font size */
+    padding: 10px 15px; 
+    font-size: 14px; 
     color: white;
     border: none;
     border-radius: 32px;
@@ -286,12 +286,12 @@ body {
 
 .controls1 {
   display: flex;
-  gap: 10px; /* Space between buttons */
+  gap: 10px; 
 }
 
 .controls1 button {
-    padding: 10px 15px; /* Reduced padding for smaller button */
-    font-size: 14px; /* Smaller font size */
+    padding: 10px 15px; 
+    font-size: 14px; 
     color: white;
     border: none;
     border-radius: 5px;
@@ -447,7 +447,7 @@ body.about {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(135deg, #f9d423, #ff4e50); /* Matching color gradient */
+  background: linear-gradient(135deg, #f9d423, #ff4e50); 
   color: #333;
   padding: 20px;
 }
@@ -469,7 +469,7 @@ body.about {
 
 .about-container h1 {
   font-size: 2em;
-  color: #ff4e50; /* Corresponding color */
+  color: #ff4e50; 
   margin-bottom: 20px;
 }
 
